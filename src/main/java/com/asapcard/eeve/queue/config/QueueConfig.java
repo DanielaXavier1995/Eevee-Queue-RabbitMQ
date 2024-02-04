@@ -1,6 +1,5 @@
 package com.asapcard.eeve.queue.config;
 
-
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.core.QueueBuilder;
 import org.springframework.context.annotation.Bean;
